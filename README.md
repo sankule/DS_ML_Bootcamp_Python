@@ -1,1 +1,2 @@
-DS_ML_Bootcamp_Python
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
